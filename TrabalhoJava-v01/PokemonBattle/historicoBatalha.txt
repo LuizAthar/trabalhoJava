@@ -1,0 +1,10 @@
+Luiz: Pokemon jogador: Flareon, Pokemon computador: Snom, Vencedor: Flareon
+Luiz: Pokemon jogador: Flareon, Pokemon computador: Seedot, Vencedor: Flareon
+Luiz: Pokemon jogador: Flareon, Pokemon computador: Lanturn, Vencedor: Flareon
+pedro: Pokemon jogador: Flareon, Pokemon computador: Clefable, Vencedor: Clefable
+Samuel: Pokemon jogador: Rapidash, Pokemon computador: Dragonite, Vencedor: Dragonite
+Luiz nego: Pokemon jogador: Flareon, Pokemon computador: Charmander, Vencedor: Flareon
+Luiz nego: Pokemon jogador: Flareon, Pokemon computador: Spearow, Vencedor: Flareon
+Luiz nego: Pokemon jogador: Flareon, Pokemon computador: Caterpie, Vencedor: Flareon
+Luiz nego: Pokemon jogador: Flareon, Pokemon computador: Fearow, Vencedor: Flareon
+Luiz nego: Pokemon jogador: Flareon, Pokemon computador: Azumarill, Vencedor: Azumarill
